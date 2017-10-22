@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Web</string>
+    <string-array name="menu">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
